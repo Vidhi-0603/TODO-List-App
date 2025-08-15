@@ -19,11 +19,11 @@ A simple and responsive currency converter web application built using HTML, CSS
   
 ## Screenshots
 
-![App Screenshot](Screenshot 2025-08-15 214247.png)
+![App Screenshot](Screenshot%202025-08-15%20213201.png)
 
-![App Screenshot](Screenshot 2025-08-15 214205.png)
+![App Screenshot](Screenshot%202025-08-15%20214205.png)
 
-![App Screenshot](Screenshot 2025-08-15 213201.png).
+![App Screenshot](Screenshot%202025-08-15%20214247.png).
 
 
 ## Authors
